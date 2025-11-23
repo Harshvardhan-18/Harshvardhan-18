@@ -56,10 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-18&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-18&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&size_weight=0.5&count_weight=0.5" />
-</p>
-
 ---
 
 ## 📦 Top Contributed Repos
