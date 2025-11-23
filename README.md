@@ -51,9 +51,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhanyadav&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanyadav&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanyadav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan-18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan-18&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-18&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-18&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&size_weight=0.5&count_weight=0.5" />
+</p>
+
+---
+
+## 📦 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Harshvardhan-18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 ---
