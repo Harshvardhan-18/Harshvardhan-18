@@ -1,19 +1,14 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00b4d8">Harshvardhan Yadav</span></h1>
 <h3 align="center">🎓 B.Tech IT @ IIIT Una</h3>
-<h3 align="center">💻 Web 3 | ⚡ Full-Stack Developer | 🧠 DSA in C++</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech IT student at **IIIT Una**
-- 🚀 Currently mastering **Real-time Web Apps, Next.js 14 & Socket.IO**
-- 🤖 Building **AI-powered tools** using Gemini API & Socket.IO
-- 🧩 Solved **500+ DSA problems** on LeetCode & GFG
-- 💡 Love building **real-time systems & developer tools**
-- 📈 Always exploring **new technologies**
-- ⚡ Fun fact — I know C++ but not Python (yet 😄)
+- 🚀 Currently mastering **GenAI Stuff**
+- 💡 Love getting confused with **new technologies**
 
 ---
 
@@ -73,4 +68,4 @@
 
 ---
 
-⭐ _If you like my work, consider giving a star to my repositories!_
+⭐ _If you like my work, you have a serious problem!_
