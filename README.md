@@ -5,10 +5,8 @@
 
 ---
 
-## 🚀 About Me
-
-- 🚀 Currently mastering **GenAI Stuff**
-- 💡 Love getting confused with **new technologies**
+- Currently mastering **GenAI Stuff**
+-  Love getting confused with **new technologies**
 
 ---
 
@@ -27,7 +25,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=py,redis,docker,fastapi,prisma,solidity,rust,c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,firebase,git,github" />
 </p>
 
 ---
