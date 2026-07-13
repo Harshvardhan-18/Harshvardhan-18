@@ -158,9 +158,9 @@ def build(path, *, bg, bg_alt, border, text, muted, accent, accent2, portrait, g
 
 build(
     "dark.svg",
-    bg="#0d1117", bg_alt="#161b22", border="#30363d",
-    text="#c9d1d9", muted="#8b949e", accent="#58a6ff", accent2="#79c0ff",
-    portrait="#58a6ff", green="#3fb950", red="#f85149",
+    bg="#0d1117", bg_alt="#0a0f14", border="#1e3a3a",
+    text="#cde8e8", muted="#5fa89a", accent="#00e5cc", accent2="#00ffdd",
+    portrait="#00e5cc", green="#3fb950", red="#f85149",
 )
 
 build(
