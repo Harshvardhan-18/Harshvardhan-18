@@ -6,7 +6,7 @@
 ---
 
 - Currently mastering **GenAI Stuff**
--  Love getting confused with **new technologies**
+- Love getting confused with **new technologies**
 
 ---
 
@@ -44,9 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan-18&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan-18&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-18&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshvardhan-18&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -54,15 +52,22 @@
 ## 📦 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Harshvardhan-18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <a href="https://github.com/Harshvardhan-18?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshvardhan-18&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/Harshvardhan-18?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshvardhan-18&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
 ### 📫 How to reach me:
+
 📩 Email: **harshvar8an@gmail.com**  
 ⭐ GitHub: **github.com/Harshvardhan-18**  
-🚀 Open to ** Internships | Collaborative Projects**
+🚀 Open to **Internships | Collaborative Projects**
 
 ---
 
