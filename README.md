@@ -34,10 +34,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **InterVu** | AI-powered mock interview platform that researches real company interview experiences, generates adaptive interview questions, and provides detailed performance feedback. | Next.js · FastAPI · LangGraph · ChromaDB |
 | **DefAI** | DeFi AI Agent executing blockchain transactions using Phantom Wallet & Gemini API (99% accuracy). | AI · Blockchain · Gemini API |
 | **Prolingo** | SaaS platform like Duolingo with AI-driven multiplayer coding quizzes. 1000+ dynamic questions. | Next.js · PostgreSQL · Socket.IO |
 | **Excali** | Real-time collaborative sketching platform (<100ms sync) using Turborepo & WebSockets. | React · Prisma · Turborepo |
-| **FrameFolio** | Drag & Drop portfolio builder using MERN + Firebase. | MERN · Firebase |
 
 ---
 
