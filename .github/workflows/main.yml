@@ -1,0 +1,40 @@
+name: Update profile SVGs
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # ~ once a day (00:00 IST)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update-svgs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore LOC cache
+        run: mkdir -p cache
+
+      - name: Generate SVGs
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: python update.py
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark.svg light.svg cache/
+          git diff --cached --quiet || git commit -m "chore: refresh profile stats"
+          git push
