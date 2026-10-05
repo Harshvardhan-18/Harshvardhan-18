@@ -25,7 +25,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,redis,docker,fastapi,prisma,solidity,rust,c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=py,redis,docker,fastapi,prisma,solidity,rust,c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,sqlite,tailwind,firebase,git,github,vercel,aws" />
 </p>
 
 ---
@@ -38,16 +38,6 @@
 | **DefAI** | DeFi AI Agent executing blockchain transactions using Phantom Wallet & Gemini API (99% accuracy). | AI · Blockchain · Gemini API |
 | **Prolingo** | SaaS platform like Duolingo with AI-driven multiplayer coding quizzes. 1000+ dynamic questions. | Next.js · PostgreSQL · Socket.IO |
 | **Excali** | Real-time collaborative sketching platform (<100ms sync) using Turborepo & WebSockets. | React · Prisma · Turborepo |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshvardhan-18&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
 
 ## 📦 Top Contributed Repos
 
